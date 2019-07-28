@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whipsaw", "Whipsaw\Whipsaw.csproj", "{7F16ED0E-E3D5-48E4-98A4-817AC84FEA53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whipsaw", "src\Whipsaw\Whipsaw.csproj", "{7F16ED0E-E3D5-48E4-98A4-817AC84FEA53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
